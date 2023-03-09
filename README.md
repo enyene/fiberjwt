@@ -1,1 +1,1 @@
-# fiberjwt
+# Golang, GORM, & Fiber: JWT Authentication
